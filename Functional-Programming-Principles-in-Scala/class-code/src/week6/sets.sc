@@ -1,5 +1,5 @@
-package week6
-import nqueens._
+//package week6
+import week6.nqueens._
 
 
 /** Sets are unordered, do not have duplicate elements, and the fundamental operation for Set
